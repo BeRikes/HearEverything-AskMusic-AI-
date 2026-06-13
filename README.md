@@ -28,9 +28,9 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="image/AI对话.jpg" width="200" alt="AI对话"/></td>
-      <td><img src="image/当前歌单.jpg" width="200" alt="当前歌单"/></td>
-      <td><img src="image/播放器界面.jpg" width="200" alt="播放器界面"/></td>
+      <td><img src="image/ai-chat.jpg" width="200" alt="AI对话"/></td>
+      <td><img src="image/playlist.jpg" width="200" alt="当前歌单"/></td>
+      <td><img src="image/player.jpg" width="200" alt="播放器界面"/></td>
     </tr>
     <tr>
       <td align="center"><b>AI 对话</b></td>
@@ -38,9 +38,9 @@
       <td align="center"><b>播放器</b></td>
     </tr>
     <tr>
-      <td><img src="image/歌词界面.jpg" width="200" alt="歌词界面"/></td>
-      <td><img src="image/下载.jpg" width="200" alt="下载"/></td>
-      <td><img src="image/设置.jpg" width="200" alt="设置"/></td>
+      <td><img src="image/lyrics.jpg" width="200" alt="歌词界面"/></td>
+      <td><img src="image/downloads.jpg" width="200" alt="下载"/></td>
+      <td><img src="image/settings.jpg" width="200" alt="设置"/></td>
     </tr>
     <tr>
       <td align="center"><b>歌词</b></td>
